@@ -1,0 +1,26 @@
+#map {
+    width: auto;
+    height: auto;
+    cursor: crosshair;
+  }
+  #marker{
+    background-color: ghostwhite;
+    width: auto;
+    max-width: 300px;
+    height: auto;
+    padding: 2%;
+    border: 2px solid silver;
+    display: none;
+    cursor: pointer;
+  }
+  img{
+    width: 100%;
+  }
+  #mouseMovePosition{
+    z-index: 100;
+    left: 40%;
+    position: absolute;
+    margin: auto 0;
+  }
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */
